@@ -1,5 +1,5 @@
 
-int = gets()
+int = " "
 def fizzbuzz (int)
   if int % 3 == 0
     puts "Fizz"
@@ -11,6 +11,6 @@ end
    puts "FizzBuzz"
 end
  if int !% 3 || !% 5 == 0
-   puts "Nil"
+   puts "nilll"
   end
 end
