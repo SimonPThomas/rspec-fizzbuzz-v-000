@@ -9,10 +9,10 @@ def fizzbuzz
  elsif int % 3 && 5 == 0
    puts "FizzBuzz"
 
- else int !% 3 || 5 == 0 
+ else int !% 3 || 5 == 0
    puts "Nil"
 
   end
 end
 
-fizzbuzz(int)
+s
