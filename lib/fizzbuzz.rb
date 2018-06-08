@@ -1,6 +1,5 @@
-int = " "
 
-def fizzbuzz(int)
+def fizzbuzz
   if int % 3 == 0
     puts "Fizz"
 
